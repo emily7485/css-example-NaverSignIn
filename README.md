@@ -1,5 +1,8 @@
-## 01.Naver_signIn
+# Naver_signIn
+
 Make a Sign in page of Naver
+
+## Screenshot
 
 - This is a original page
   
@@ -9,7 +12,8 @@ Make a Sign in page of Naver
 
 ![copy](https://github.com/emily7485/test.github.io/blob/master/images/copy.PNG)
 
-- language: HTML & CSS
+
+## Built With
 
 [Check my code](https://github.com/emily7485/test.github.io/tree/master/01.NaverSignIn)
 
