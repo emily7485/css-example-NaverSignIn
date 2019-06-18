@@ -16,8 +16,8 @@ Make a Sign in page of Naver
 
 
 ## Built With
-- CSS
-- HTML
+- HTML 5
+- CSS 3
 
 
 ## Contributing
