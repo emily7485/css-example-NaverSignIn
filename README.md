@@ -4,7 +4,7 @@ Make a Sign in page of Naver
 
 ## Screenshot
 
-[See the result](https://emily7485.github.io/test.github.io/01.NaverSignIn/signin.html)
+[See the result](https://emily7485.github.io/css-example-NaverSignIn/signin.html)
 [Check my code](https://github.com/emily7485/test.github.io/tree/master/01.NaverSignIn)
 
 - This is a original page
