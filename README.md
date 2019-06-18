@@ -8,11 +8,11 @@ Make a Sign in page of Naver
 
 - This is a original page
   
-![real](https://github.com/emily7485/css-example-NaverSignIn/images/real.PNG)
+![real](images/real.PNG)
 
 - and this is a copy that i made
 
-![copy](https://github.com/emily7485/css-example-NaverSignIn/images/copy.PNG)
+![copy](images/copy.PNG)
 
 
 ## Built With
