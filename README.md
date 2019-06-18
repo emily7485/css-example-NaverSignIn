@@ -9,11 +9,11 @@ Make a Sign in page of Naver
 
 - This is a original page
   
-![real](https://github.com/emily7485/test.github.io/blob/master/images/real.PNG)
+![real](https://github.com/emily7485/css-example-NaverSignIn/images/real.PNG)
 
 - and this is a copy that i made
 
-![copy](https://github.com/emily7485/test.github.io/blob/master/images/copy.PNG)
+![copy](https://github.com/emily7485/css-example-NaverSignIn/images/copy.PNG)
 
 
 ## Built With
@@ -28,4 +28,4 @@ Please read [CONTRIBUTING](https://gist.github.com/emily7485/be9662f632063012c84
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://gist.github.com/emily7485/22bbc7aa64f6c8ee33850ad88bafdfcf) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://gist.github.com/emily7485/22bbc7aa64f6c8ee33850ad88bafdfcf)  file for details
